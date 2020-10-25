@@ -1,0 +1,5 @@
+com\sonoma\ApplicationMain.class
+com\sonoma\ZipCodeMerger.class
+com\sonoma\beans\RangeBean.class
+com\sonoma\util\Util.class
+com\sonoma\exception\InvalidInputException.class
